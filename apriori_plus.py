@@ -178,7 +178,7 @@ if __name__=="__main__":
     if not os.path.exists(current_path+"/log"):
         os.mkdir("log")
     path=current_path+"/dataset/"+filename
-    save_path=current_path+"/log/"+filename.split(".")[0]+"_apriori.txt"
+    save_path=current_path+"/log/"+filename.split(".")[0]+"_apriori_plus.txt"
 
     data=load_data(path)
     apriori_plus=Apriori_plus()

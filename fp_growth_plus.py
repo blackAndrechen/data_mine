@@ -210,7 +210,7 @@ if __name__=="__main__":
 	    os.mkdir("log")
 
 	path=current_path+"/dataset/"+filename
-	save_path=current_path+"/log/"+filename.split(".")[0]+"_fpgrowth.txt"
+	save_path=current_path+"/log/"+filename.split(".")[0]+"_fpgrowth_plus.txt"
 
 	data_set=load_data(path)
 	fp=Fp_growth_plus()
