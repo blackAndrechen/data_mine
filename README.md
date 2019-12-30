@@ -1,5 +1,5 @@
 # data_mine
-##introduce
+## introduce
 In this repository implemente 6 class of Association rule data mining algorithm
 1.Apriori (apriori.py)
 >apriori algorithm
@@ -18,6 +18,14 @@ In this repository implemente 6 class of Association rule data mining algorithm
 
 6.Fp_growth_plus(fp_growth_plus.py)
 > dataset compress + fp_growth
+
+- running progress
+
+![](imgs/run_progress.png)
+
+- the result of association rule data mining
+
+![](imgs/result.png)
 
 ## how to use
 -   download the repository
