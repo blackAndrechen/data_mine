@@ -1,6 +1,11 @@
 # data_mine
+
+求star！求star！求star！
+
 ## introduce
 In this repository implemente 6 class of Association rule data mining algorithm
+
+
 1.Apriori (apriori.py)
 >apriori algorithm
 
